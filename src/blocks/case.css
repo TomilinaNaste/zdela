@@ -1,0 +1,34 @@
+.case {
+
+}
+
+.case__cards {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    padding-top: 80px;
+    margin: 0;
+    list-style-type: none;
+}
+
+.case__card {
+    background-color: #F9F9F9;
+    color: #252B42;
+    width: 360px;
+}
+
+.case__card-title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    text-align: center;
+}
+
+.case__card-text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+    color: #737373;
+}

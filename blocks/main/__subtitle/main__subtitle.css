@@ -1,0 +1,9 @@
+.main__subtitle {
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #737373;
+    padding-top: 30px;
+    max-width: 431px;
+}

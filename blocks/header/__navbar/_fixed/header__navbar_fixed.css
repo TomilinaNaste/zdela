@@ -1,0 +1,11 @@
+.header__navbar_fixed {
+    height: 60px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    background-color: #F9F9F9;
+    opacity: 0.9;
+    width: 100%; 
+    transition: .4s all; 
+}

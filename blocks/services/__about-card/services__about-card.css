@@ -1,0 +1,11 @@
+.services__about-card {
+    position: absolute;
+    width: 325px;
+    height: 147px;
+    border-radius: 5px;
+    background-color:#295C7A;
+    opacity: 0.9;
+    align-items: center;
+    display: none;
+
+}

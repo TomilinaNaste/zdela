@@ -1,0 +1,9 @@
+.header__button {
+    width: 182px;
+    height: 48px;
+    border-radius: 37px;
+    cursor: pointer;
+}
+.header__button:hover {
+    box-shadow: 8px 10px 5px 2px rgba(120, 79, 51, 0.3); ;
+}

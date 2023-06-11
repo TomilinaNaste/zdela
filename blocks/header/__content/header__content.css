@@ -1,0 +1,5 @@
+.header__content {
+    max-width: calc(100% - 2 * 60px);
+    margin: auto;
+    color: #737373;
+}

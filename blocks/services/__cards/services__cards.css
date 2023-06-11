@@ -1,0 +1,8 @@
+.services__cards {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    padding-top: 80px;
+    margin: 0;
+    list-style-type: none;
+}

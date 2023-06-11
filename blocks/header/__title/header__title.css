@@ -1,0 +1,9 @@
+.header__title {
+    color: #252B42;
+    margin: 0;
+    max-width: 600px;
+    font-weight: 900;
+    line-height: 65px;
+    font-size: 58px;
+    padding-top: 154px;
+}

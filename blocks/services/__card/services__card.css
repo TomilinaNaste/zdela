@@ -1,0 +1,16 @@
+.services__card {
+    display: block;
+    width: 325px;
+    height: 147px;
+    background-color: #F9F9F9;
+    border-radius: 5px;
+    color: #252B42;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.services__card:hover .services__about-card{
+    display: flex;
+}

@@ -1,0 +1,6 @@
+.header {
+    background: url(./image/background.png) no-repeat center center fixed;
+    max-width: 100%;
+    background-size: cover;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
